@@ -1,0 +1,93 @@
+#third img{
+    box-shadow: blue;
+    border-radius: 40px;
+    padding-top: 30px;
+    box-shadow: red;
+    align-items: center;
+}
+
+#third p{
+    font-size: 20px;
+}
+#third td{
+    font-size: 20px;
+}
+
+#first a{
+
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+
+
+#zero img{
+    width: 200px;
+    height: 180px;
+    margin-top: 0%;
+
+
+}
+#zero td{
+
+    font-family: "Arial";
+    text-align: center;
+    padding-right: 10px;
+
+    box-shadow: red;
+
+    font-size: 15px;
+
+}
+#zero h1{
+    margin-bottom: 20px;
+}
+
+#upcomingevents h1{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    background-color: orangered;
+    color: white;
+    box-shadow: blue;
+    border-radius: 0 0 20px;
+}
+#aboutfeculty h1{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    background-color: orangered;
+    color: white;
+    box-shadow: blue;
+    border-radius: 0 0 20px;
+
+}
+#aboutfeculty td{
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    box-shadow: red;
+    border-radius: 0  0 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-right: 20px;
+
+    font-family: "Comic Sans MS";
+
+
+}
+#aboutfeculty table tr td{
+    text-decoration: none;
+    margin-left: 60px;
+
+}
+#paperone h1{
+    text-align: center;
+    color: orange;
+    border: red;
+    border-radius: 10px ;
+    box-shadow: orange;
+    font-size: 40px;
+    font-family: "Comic Sans MS";
+    margin-top: 0px;
+}
+#fecultyinformationteachonologyone div{
+    padding: 0px;
+}
